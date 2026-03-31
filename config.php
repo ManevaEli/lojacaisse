@@ -1,6 +1,6 @@
 <?php
 define('DB_HOST', 'localhost');
-define('DB_NAME', 'supermarche');
+define('DB_NAME', 'mercado');
 define('DB_USER', 'root');
 define('DB_PASS', '');
 
