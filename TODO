@@ -1,0 +1,22 @@
+***Base de donné MYSQL (okk)
+    _produits
+    _caisse
+    _achat
+
+*initialiser le flight php (ok)
+
+*template 
+
+*page login : formulaire login/password
+
+**Ecran choix de caisse 
+
+***Page saisie des caisse
+        _choix produit disponible ,bouton valider
+        _tableau recapitulatif des achats
+        _Totale de la facture
+
+
+
+
+
